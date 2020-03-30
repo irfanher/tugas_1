@@ -42,7 +42,7 @@ func main() {
 	employee.SetFirstName("Budi")
 	employee.SetLastName("Pratama")
 	employee.SetJob("Marketing")
-	employee.SetSalary("2.000.000")
+	employee.SetSalary("Rp. 2.000.000")
 
 	fmt.Println("FirstName : ", employee.GetFirstName())
 	fmt.Println("LastName : ", employee.GetlastName())
